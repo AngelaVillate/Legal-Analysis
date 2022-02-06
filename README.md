@@ -1,4 +1,4 @@
-🙋🏽 # Welcome to Legal Analysis 
+# Welcome to Legal Analysis 🙋
 
 ¡Hola! Legal Analysis es un proyecto de analítica de datos que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes. Lo desarrollé en el marco de mi doctorado en pensamiento complejo, en el que presenté un modelo de análisis jurisprudencial que se apoyo en métodos de NLP, probabilidad y visualización. 
 
@@ -19,7 +19,7 @@ Los procesos se aplicaron a distintos conjuntos de información para comprender 
 
 ## Todos los documentos
 
-[Todos los documentos] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/TodasTodas.ipynb)
+[Todos los documentos] https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/TodasTodas.ipynb
 Encuentra aquí la lectura y análisis de la totalidad de documentos seleccionados para el estudio
 
 
