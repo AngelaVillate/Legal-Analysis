@@ -19,7 +19,7 @@ Los procesos se aplicaron a distintos conjuntos de información para comprender 
 
 ## Todos los documentos
 
-[Todos los documentos](https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/TodasTodas.ipynb)
+<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/TodasTodas.ipynb">Todos los documentos</a>
 Encuentra aquí la lectura y análisis de la totalidad de documentos seleccionados para el estudio
 
 
