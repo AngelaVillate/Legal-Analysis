@@ -29,7 +29,7 @@ Encuentra aquí la lectura y análisis de la totalidad de documentos seleccionad
 <a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/Consid_CC (1).ipynb">Todos las consideraciones Corte Constitucional documentos</a>
 Encuentra aquí la lectura y análisis detallado de las consideraciones de la Corte Constitucional
 
-<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_Si.ipynb">Tendencia afirmativa de la Corte Constitucional 
+<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_Si.ipynb">Tendencia afirmativa de la Corte Constitucional</a>
 Encuentra aquí la lectura y análisis, aún más detallado, de las sentencias en las que la Corte tuvo una posición afirmativa
 
 [Tendencia negativa de la Corte Constitucional] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_No%20%281%29.ipynb#topic=0&lambda=1&term=)
