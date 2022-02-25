@@ -2,22 +2,22 @@
 # By Angela Cristina Villate
 
 
-¡Hola! Legal Analysis es un proyecto de analítica de datos que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes. Lo desarrollé en el marco de mi doctorado en pensamiento complejo, en el que presenté un modelo de análisis jurisprudencial que se apoyo en métodos de NLP, probabilidad y visualización. 
+¡Hola! Legal Analysis es un proyecto de analítica de datos que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes colombianas. Lo desarrollé en el marco de mi doctorado en Pensamiento Complejo, en donde presenté un modelo de análisis jurisprudencial que se apoyó en métodos de NLP (procesamiento de lenguaje natural), probabilidad y visualización. 
 
 ## ¿Qué encontrarás en este espacio?
 
-Una serie de códigos que desarrollan los siguientes procesos:
+Una serie de códigos que ejecutan los siguientes procesos:
 
-1. Lectura en masa de los documentos decisionales
-2. Preprocesamiento
-3. Cálculo del TFIDF
+1. Lectura en masa de documentos decisionales
+2. Preprocesamiento de la información
+3. Cálculo del TFIDF con el que se determinó la cercanía o distancia entre los textos
 4. Matriz traspuesta
 5. Visualización de PCA
 6. Visualización de DHL
 
 ## Organización de la información
 
-Los procesos se aplicaron a distintos conjuntos de información para comprender la información en distintos contextos:
+Para el análisis, la información se agrupó en distintos conjuntos (según tipo de corte y tendencias). Conozca el resultado en los siguientes ítems.
 
 ## Todos los documentos
 
