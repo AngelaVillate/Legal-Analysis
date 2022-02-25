@@ -1,5 +1,6 @@
 # Welcome to Legal Analysis 🙋
-By Angela C. Villate
+# By Angela Cristina Villate
+
 
 ¡Hola! Legal Analysis es un proyecto de analítica de datos que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes. Lo desarrollé en el marco de mi doctorado en pensamiento complejo, en el que presenté un modelo de análisis jurisprudencial que se apoyo en métodos de NLP, probabilidad y visualización. 
 
