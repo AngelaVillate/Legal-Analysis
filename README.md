@@ -32,7 +32,7 @@ Encuentra aquí la lectura y análisis detallado de las consideraciones de la Co
 <a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_Si.ipynb">Tendencia afirmativa de la Corte Constitucional</a>
 Encuentra aquí la lectura y análisis, aún más detallado, de las sentencias en las que la Corte tuvo una posición afirmativa
 
-[Tendencia negativa de la Corte Constitucional] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_No%20%281%29.ipynb#topic=0&lambda=1&term=)
+<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CC_No (1).ipynb">Tendencia afirmativa de la Corte Constitucional</a>
 Encuentra aquí la lectura y análisis, aún más detallado, de las sentencias en las que la Corte tuvo una posición negativa
 
 [Tendencia negativa y salvamento de voto] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CCNoPlusSV.ipynb)
