@@ -41,10 +41,10 @@ Encuentra aquí las relaciones textuales entre los documentos con tendencia nega
 
 ## Consejo de Estado
 
-[Todas las consideraciones del Consejo de Estado] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CE_Todas.ipynb)
+<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CE_Todas.ipynb"> Consideraciones Consejo de Estado</a>
 Encuentra aquí la lectura y análisis detallado de las consideraciones del Consejo de Estado
 
-[Tendencia afirmativa del Consejo de Estado] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CE_Si.ipynb)
+<a href="https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CE_Si.ipynb"> Tendencia Afirmativa Consejo de Estado</a>
 Encuentra aquí la lectura y análisis, aún más detallado, de las sentencias en las que el Consejo tuvo una posición afirmativa
 
 [Tendencia negativa del Consejo de Estado] (https://nbviewer.org/github/AngelaVillate/Legal-Analysis/blob/main/CE_CNO.ipynb)
