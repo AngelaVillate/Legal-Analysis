@@ -1,8 +1,8 @@
-# Welcome to Legal Analysis 🙋
+# Welcome to Polyedro 🙋
 # By Angela Cristina Villate
 
 
-¡Hola! Legal Analysis es un proyecto de analítica de datos que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes colombianas. Lo desarrollé en el marco de mi doctorado en Pensamiento Complejo, en donde presenté un modelo de análisis jurisprudencial que se apoyó en métodos de NLP (procesamiento de lenguaje natural), probabilidad y visualización. 
+¡Hola! Polyedro es un modelo complejo de análisis de información legal  que estudia el comportamiento lingüístico de las decisiones judiciales de las Altas Cortes colombianas. Lo desarrollé en el marco de mi doctorado en Pensamiento Complejo en Multiversidad Edgar Morin. Este modelo se ha desarrollado a través del uso de  métodos de NLP (procesamiento de lenguaje natural), probabilidad y visualización. 
 
 ## ¿Qué encontrarás en este espacio?
 
