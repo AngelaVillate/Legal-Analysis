@@ -54,4 +54,4 @@ Encuentra aquí la lectura y análisis, aún más detallado, de las sentencias e
 
 ## Visualización del DashBoard
 
-[Encuentra la caracterización de las demás variables a través del siguiente enlace] 
+[Encuentra la caracterización de las demás variables a través del siguiente enlace] https://public.tableau.com/views/Polyedro/Actores1?:language=es-ES&:display_count=n&:origin=viz_share_link
